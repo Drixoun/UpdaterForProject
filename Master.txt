@@ -1,4 +1,4 @@
 
 <Version: 1.00>
-/data/Map021.json https://raw.githubusercontent.com/Drixoun/UpdaterForProject/main/Map021.json?token=AVKRYC75AIUDU2BOHRCPAA3BVNZRU
+/data/Map021.json https://raw.githubusercontent.com/Drixoun/UpdaterForProject/main/Map021.json
 <End Of Version>
