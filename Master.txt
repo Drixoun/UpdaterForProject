@@ -1,1 +1,4 @@
 
+<Version: 1.01>
+/data/latest.zip http
+<End Of Version>
