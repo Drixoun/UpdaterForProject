@@ -1,4 +1,4 @@
 
-<Version: 1.02>
-/data/Map021.json https://raw.githubusercontent.com/Drixoun/UpdaterForProject/main/Map021.json
+<Version: 1.01>
+
 <End Of Version>
